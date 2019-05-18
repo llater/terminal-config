@@ -1,2 +1,2 @@
 alias k=kubcetl
-alias ls=ls -al
+alias ls="ls -al"
